@@ -1,8 +1,7 @@
 /*============================================================
 |
-| File Name: CompareNumbers.cpp
+| File Name: CompareNumbers.cpp (CPP-3)
 | Purpose: To compare two integer numbers.
-| (Week-2 Workshop-1 Q3).
 | Documentation: This program asks the user to enter two integers,
 | obtains the numbers from the user, then prints the larger number
 | followed by the words "is larger." If the numbers are equal,
