@@ -1,8 +1,7 @@
 /*============================================================
 |
-| File Name: PrintNumbers.cpp
+| File Name: PrintNumbers.cpp (CPP-2)
 | Purpose: To print characters on the same line in different ways.
-| (Week-2 Workshop-1 Q2).
 | Documentation: This program prints the numbers 1 to 4 on the same
 | line with each pair of adjacent numbers separated by one space. 
 |
