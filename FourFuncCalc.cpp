@@ -1,11 +1,11 @@
 /*============================================================
 |
-| File Name: FourFuncCalc.cpp
+| File Name: FourFuncCalc.cpp (CPP-1)
 | Purpose: To calculate sum, product, difference, and quotient
-|   of the two numbers. (Week-2 Workshop-1 Q1).
+|   of the two numbers.
 | Documentation: This program asks the user to enter two numbers,
 |   obtains the two numbers from the user and prints the sum,
-|product, difference, and quotient of the two numbers.
+|   product, difference, and quotient of the two numbers.
 | 
 | Revision History:
 | Date               Name                  Revision
