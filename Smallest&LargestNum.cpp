@@ -2,7 +2,6 @@
 |
 | File Name: Smallest&LargestNum.cpp
 | Purpose: To find smallest and largest integer numbers.
-
 | Documentation: This program inputs three integers from the
 | keyboard and prints the sum, average, product, smallest and
 | largest of these numbers.
