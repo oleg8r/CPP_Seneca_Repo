@@ -1,7 +1,7 @@
 /*============================================================
 |
 | File Name: PrintGeomShapes.cpp
-| Purpose: To print geometric shapes. (Week-2 Workshop-1 Q6).
+| Purpose: To print geometric shapes.
 | Documentation: This program prints a box, an oval, an arrow
 |   and a diamond as follows:
 |
