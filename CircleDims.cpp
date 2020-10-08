@@ -2,7 +2,6 @@
 |
 | File Name: CircleDims.cpp (CPP-5)
 | Purpose: To print the circle’s diameter, circumference and area.
-
 | Documentation: This program reads in the radius of a circle
 | as an integer and prints the circle’s diameter, circumference
 | and area. The constant value 3.14159 is used for π. All
