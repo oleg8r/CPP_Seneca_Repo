@@ -1,8 +1,7 @@
 /*============================================================
 |
-| File Name: CharToNum.cpp
+| File Name: CharToNum.cpp (CPP-12)
 | Purpose: To print the integer equivalent of a character.
-|   (Week-2 Workshop-1 Q12).
 | Documentation: This program prints the integer equivalent of
 |   a character typed at the keyboard. It stores the input
 |   in a variable of type char. It can use uppercase letters,
@@ -31,4 +30,3 @@ int main() {
   
   return 0;
 }
-
