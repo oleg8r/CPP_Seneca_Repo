@@ -1,8 +1,7 @@
 /*============================================================
 |
-| File Name: DrivingCostCalc.cpp
+| File Name: DrivingCostCalc.cpp (CPP-16)
 | Purpose: To calculate the daily driving cost.
-|   (Week-2 Workshop-1 Q16).
 | Documentation: This program calculates the daily driving cost,
 |   so that everyone can estimate how much money could be saved
 |   by carpooling, which also has other advantages such as
