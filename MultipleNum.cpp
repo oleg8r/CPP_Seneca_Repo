@@ -1,8 +1,8 @@
 /*============================================================
 |
-| File Name: MultipleNum.cpp
+| File Name: MultipleNum.cpp (CPP-10)
 | Purpose: To determine if the first integer is a multiple of
-| the second integer number. (Week-2 Workshop-1 Q10).
+| the second integer number.
 | Documentation: This program reads in two integers and using
 | the modulus operator it determines and prints if the first
 | is a multiple of the second.
