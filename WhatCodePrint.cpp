@@ -1,7 +1,7 @@
 /*============================================================
 |
-| File Name: WhatCodePrint.cpp
-| Purpose: To check what the specified code print. (Week-2 Workshop-1 Q7).
+| File Name: WhatCodePrint.cpp (CPP-7)
+| Purpose: To check what the specified code print.
 | Documentation: This program checks what the following code print:
 |   cout << "*\n**\n***\n****\n*****" << endl;
 | 
@@ -27,4 +27,3 @@ int main() {
   std::cout << "This code prints asterisks in the shape of a pyramid." << std::endl;
   return 0;
 }
-
