@@ -1,8 +1,7 @@
 /*============================================================
 |
-| File Name: BMIcalc.cpp
+| File Name: BMIcalc.cpp (CPP-15)
 | Purpose: To calculate and display the user’s body mass index.
-|   (Week-2 Workshop-1 Q15).
 | Documentation: This program is a BMI calculator application
 |   that reads the user’s weight in kilograms and height in meters,
 |   then it calculates and displays the user’s body mass index.
