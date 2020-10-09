@@ -1,8 +1,7 @@
 /*============================================================
 |
-| File Name: SeparateIntDigits.cpp
-| Purpose: To separate the integer’s digits. 
-|   (Week-2 Workshop-1 Q13).
+| File Name: SeparateIntDigits.cpp (CPP-13)
+| Purpose: To separate the integer’s digits.
 | Documentation: This program reads in a five-digit integer,
 | separates the integer into its digits and prints them
 | separated by three spaces each. The integer division and
