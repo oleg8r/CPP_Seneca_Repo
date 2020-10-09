@@ -1,8 +1,8 @@
 /*============================================================
 |
-| File Name: IntSquares&Cubes.cpp
+| File Name: IntSquares&Cubes.cpp (CPP-14)
 | Purpose: To calculate the squares and cubes of the integers
-|   from 0 to 10. (Week-2 Workshop-1 Q14).
+|   from 0 to 10.
 | Documentation: This program calculates the squares and cubes
 |   of the integers from 0 to 10. Tabs are used to print the
 |   following neatly formatted table of values:
