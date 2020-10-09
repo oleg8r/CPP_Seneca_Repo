@@ -1,8 +1,8 @@
 /*============================================================
 |
-| File Name: AsteriskPattern.cpp
+| File Name: AsteriskPattern.cpp (CPP-11)
 | Purpose: To determine if the first integer is a multiple of
-|   the second integer number. (Week-2 Workshop-1 Q11).
+|   the second integer number.
 | Documentation: This program displays the following checkerboard
 |   pattern with eight output statements. It also displays 
 |   the same pattern using as few statements as possible:
