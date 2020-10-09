@@ -1,8 +1,7 @@
 /*============================================================
 |
-| File Name: OddOrEvenNum.cpp
+| File Name: OddOrEvenNum.cpp (CPP-9)
 | Purpose: To determine whether the number is odd or even.
-| (Week-2 Workshop-1 Q9).
 | Documentation: This program reads an integer and determines
 | and prints whether it’s odd or even. It uses the modulus
 | operator. An even number is a multiple of two. Any multiple
