@@ -7,7 +7,7 @@
 |   separated by three spaces each. The integer division and
 |   modulus operators are used for this.
 |   For example, if the user types in 42339, the program
-|   should print:   4   2    3    3    9
+|   should print:   4    2    3    3    9
 |
 | Revision History:
 | Date               Name                  Revision
