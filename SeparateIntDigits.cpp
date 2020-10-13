@@ -4,7 +4,7 @@
 | Purpose: To separate the integer’s digits.
 | Documentation: This program reads in a five-digit integer,
 |   separates the integer into its digits and prints them
-| separated by three spaces each. The integer division and
+|   separated by three spaces each. The integer division and
 | modulus operators are used for this.
 | For example, if the user types in 42339, the program
 | should print:   4   2    3    3    9
