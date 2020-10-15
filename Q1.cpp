@@ -1,7 +1,7 @@
 /*============================================================
 |
-| File Name: ParkChargeCalc.cpp
-| Purpose: To calculate parking charges. (Week-4 Workshop-2 Q1).
+| File Name: ParkChargeCalc.cpp (CPP-17)
+| Purpose: To calculate parking charges.
 | Documentation: This program calculates and prints the parking
 |   charges for customers who parked their cars in this garage
 |   yesterday. The program asks for the hours parked for each
@@ -52,7 +52,6 @@ int main() {
     std::cout << "3" << std::setw(8) << std::right << hours3 << std::right << charge3 << std::endl;
     std::cout << "TOTAL" << std::setw(8) << std::right << totalHours << std::right << totalCharge << std::endl;
 */
-
     return 0;
 }
 
