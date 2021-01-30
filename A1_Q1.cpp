@@ -1,6 +1,6 @@
 /*============================================================
 |
-| File Name: Q1.cpp
+| File Name: DataStructure.cpp
 | Purpose: To receieve, store and display information about
 |   employees using a data structure. (OOP Assignment #1 Q-01).
 | Documentation: This program uses a structure called employee
