@@ -42,7 +42,7 @@ int main()    // Don't return anything if void main() is specified.
         std::cout << "Please enter the employee " << index + 1 << " number: " << std::endl;
         std::cin >> ourEmployees[index].emplNum; 
 
-        std::cout << "Please enter the employee " << index +1 << " compensation: " << std::endl;
+        std::cout << "Please enter the employee " << index + 1 << " compensation: " << std::endl;
         std::cin >> ourEmployees[index].emplCompens;
     }
 
