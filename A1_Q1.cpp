@@ -21,7 +21,7 @@
 #include <iostream>
 #include <iomanip>
 
-struct strucEmployee   // "struct" is a compound data type used for a Structure. 
+struct strucEmployee   // "struct" is a compound data type used for a Structure
 {
     int emplNum; // 1st item of the member list: variable 1 declaration for an employee number
     float emplCompens; // 2nd item of the member list: variable 2 declaration for the employee’s compensation
