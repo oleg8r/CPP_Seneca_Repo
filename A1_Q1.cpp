@@ -54,7 +54,7 @@ int main()    // Don't return anything if void main() is specified.
         std::cout << std::setw(8) << ourEmployees[j].emplNum << std::setw(30) << ourEmployees[j].emplCompens << std::endl;
     }
 
-    std::cout << std::endl; // Brake a line
+    std::cout << std::endl; // Brake a line.
     std::cout << "----------------------End of Calculation-------------------------\n" << std::endl; // The program ends above the dashed line.
     
     return 0;   // It terminates the program. Don't return anything if void main() is specified.
