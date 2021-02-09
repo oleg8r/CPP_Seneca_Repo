@@ -48,7 +48,7 @@ int main()    // Don't return anything if void main() is specified.
 
     std::cout << "\nEmployee Number \t Employee Compensation (in Dollars)\n";
 
-    std::cout << std::endl; // Brake a line
+    std::cout << std::endl; // Brake a line.
 
     for (int j = 0; j < 3; j++) {   // C-like declaratin and initialization of the local variable "i" within the expression of the "for"-loop.
         std::cout << std::setw(8) << ourEmployees[j].emplNum << std::setw(30) << ourEmployees[j].emplCompens << std::endl;
