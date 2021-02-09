@@ -36,7 +36,7 @@ int main()    // Don't return anything if void main() is specified.
     
     std::cout << "--------------Employees Compensation Calculation-----------------\n" << std::endl; // The program starts below the dashed line.
 
-    strucEmployee ourEmployees[3]; // Using a structure for employee number and compensation
+    strucEmployee ourEmployees[3]; // Using a structure for employee number and compensation.
 
     for (int index = 0; index < 3; index++) {   // C-like declaration and initialization of the local variable "i" within the expression of the "for"-loop.
         std::cout << "Please enter the employee " << index + 1 << " number: " << std::endl;
