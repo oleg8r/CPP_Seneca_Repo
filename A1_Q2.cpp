@@ -21,7 +21,7 @@
 #include <iostream>
 #include <iomanip>
 
-                        /* struct from the previous question is here just for the reference.
+/* struct from the previous question is here just for the reference.
 struct employee {
 int number;
 float compensation;
