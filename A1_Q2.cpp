@@ -26,7 +26,7 @@ struct employee {
 int number;
 float compensation;
 };
-                        */
+                       */
 
 class ClEmployee    // Class
 {
