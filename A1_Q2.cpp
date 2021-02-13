@@ -40,7 +40,7 @@ class ClEmployee    // Class
 };
 
 
-void ClEmployee::fEnterData() // The function to set the employee number and compensation
+void ClEmployee::fEnterData() // The function to set the employee number and compensation.
 {
     std::cout << "Please enter the employee number: ";
     std::cin >> emplNum;
