@@ -49,7 +49,7 @@ void ClEmployee::fEnterData() // The function to set the employee number and com
     std::cin >> emplCompens;
 }
 
-void ClEmployee::fDisplayData() // The function to set the employee number and compensation
+void ClEmployee::fDisplayData() // The function to set the employee number and compensation.
 {
     std::cout << "The employee number: " << emplNum << std::endl;
     std::cout << "The employee compensation: " << emplCompens << std::endl;
