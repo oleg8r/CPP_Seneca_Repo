@@ -66,7 +66,7 @@ int main() {    // Don't return anything if void main() is specified.
     ClEmployee emplInstance; // Using an instance (object) of the class for employee number and compensation
 
     emplInstance.fEnterData();
-    std::cout << std::endl; // Brake a line
+    std::cout << std::endl; // Brake a line.
     emplInstance.fDisplayData(); 
 
     std::cout << std::endl; // Brake a line.
