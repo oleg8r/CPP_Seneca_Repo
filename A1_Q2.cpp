@@ -63,7 +63,7 @@ int main() {    // Don't return anything if void main() is specified.
     
     std::cout << "--------------Employees Compensation Calculation-----------------\n"<< std::endl; // The program starts below the dashed line
 
-    ClEmployee emplInstance; // Using an instance (object) of the class for employee number and compensation
+    ClEmployee emplInstance; // Using an instance (object) of the class for employee number and compensationю
 
     emplInstance.fEnterData();
     std::cout << std::endl; // Brake a line.
