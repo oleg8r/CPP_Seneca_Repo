@@ -31,7 +31,7 @@ float compensation;
 class ClEmployee    // Class
 {
     private:    // Class member variables
-        int emplNum; // 1st item of the member list: variable 1 declaration for an employee number
+        int emplNum; // 1st item of the member list: variable 1 declaration for an employee number.
         float emplCompens; // 2nd item of the member list: variable 2 declaration for the employee’s compensation
 
     public:    // Class member functions.
