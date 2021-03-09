@@ -37,7 +37,7 @@ int main()    // Don't return anything if void main() is specified.
     
     std::cout << "-----------------Date Display--------------------\n"<< std::endl; // The program starts below the dashed line.
 
-    strucDate myDate;   // Creates my structure based on the strucutre template
+    strucDate myDate;   // Creates my structure based on the strucutre template.
     
     std::cout << "Specify the date in the format 31 12 2000: ";
     std::cin >> myDate.dayVar >> myDate.monthVar >> myDate.yearVar;
