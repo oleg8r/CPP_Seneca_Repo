@@ -43,7 +43,7 @@ int main()    // Don't return anything if void main() is specified.
     std::cin >> myDate.dayVar >> myDate.monthVar >> myDate.yearVar;
     std::cout << "Your date is: " << myDate.dayVar << "/" << myDate.monthVar << "/" << myDate.yearVar << std::endl;
 
-    std::cout << std::endl; // Brake a line
+    std::cout << std::endl; // Brake a line.
     std::cout << "--------------End of Date Display-----------------\n"<< std::endl; // The program ends above the dashed line.
     
     return 0;   // It terminates the program. Don't return anything if void main() is specified.
