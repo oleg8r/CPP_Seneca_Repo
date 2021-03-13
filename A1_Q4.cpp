@@ -58,7 +58,7 @@ int main()    // Don't return anything if void main() is specified.
     myDate.getdate(day, month, year);
     myDate.showdate();
 
-    std::cout << std::endl; // Brake a line
+    std::cout << std::endl; // Brake a line.
     std::cout << "--------------End of Date Display-----------------\n"<< std::endl; // The program ends above the dashed line.
     
     return 0;   // It terminates the program. Don't return anything if void main() is specified.
