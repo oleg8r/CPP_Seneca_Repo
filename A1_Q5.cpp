@@ -33,7 +33,7 @@ class ClAngle    // Class
        float minute;
        char direction;
       
-       ClAngle(int degreeVar,float minuteVar,char directionVar)  // A three-argument constructo
+       ClAngle(int degreeVar,float minuteVar,char directionVar)  // A three-argument constructor
        {
            degree = degreeVar;
            if(minute > 60)
