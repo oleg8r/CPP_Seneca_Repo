@@ -96,7 +96,7 @@ int main()    // Don't return anything if void main() is specified.
 
     char charVar = 'y';  
 
-    while(charVar == 'y')  // A loop asking whether the user wants to continue
+    while(charVar == 'y')  // A loop asking whether the user wants to continue.
     {
         obj1.fGetAngle();
         obj1.fShowAngle();
