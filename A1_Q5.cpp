@@ -91,7 +91,7 @@ int main()    // Don't return anything if void main() is specified.
     
     std::cout << "-----------------Angle Display--------------------\n" << std::endl; // The program starts below the dashed line.
 
-    ClAngle obj1(179,59.9,'E');  // A three-argument constructor call in 179°59.9’ E format
+    ClAngle obj1(179,59.9,'E');  // A three-argument constructor call in 179°59.9’ E format.
     obj1.fShowAngle();
 
     char charVar = 'y';  
