@@ -77,7 +77,7 @@ class ClAngle    // Class
            direction = direction;
        }
       
-        void fShowAngle()  // A function for angle display
+        void fShowAngle()  // A function for angle display.
         {
             printf("The Angle is equal to: %d\xF8%.1f' %c",degree, minute, direction);
         }
