@@ -48,7 +48,7 @@ class ClAngle    // Class
            direction = directionVar;
        }
       
-       void fGetAngle()  // A function for angle input
+       void fGetAngle()  // A function for angle input.
        {
            int degree;
            float minute;
