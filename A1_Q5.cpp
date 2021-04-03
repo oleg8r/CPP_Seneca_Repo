@@ -104,7 +104,7 @@ int main()    // Don't return anything if void main() is specified.
         std::cout << std::endl << std::endl << "Do you want to continue? Please enter 'y' or 'n'): ";
         std::cin >> charVar;
     }
-    std::cout << std::endl; // Brake a line
+    std::cout << std::endl; // Brake a lineю
     std::cout << "--------------End of Angle Display-----------------\n" << std::endl; // The program ends above the dashed line.
     
 }
