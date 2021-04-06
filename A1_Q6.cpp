@@ -48,7 +48,7 @@ class ClSerialNum    // Class
 };
 
 
-int ClSerialNum::countVar = 0;  // Using a counter
+int ClSerialNum::countVar = 0;  // Using a counter.
 int main()    // Don't return anything if void main() is specified.
 {
     printf("\e[1;1H\e[2J");     // It clears the screen. No special library is required.
