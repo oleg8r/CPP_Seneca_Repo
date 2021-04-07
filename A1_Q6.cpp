@@ -56,7 +56,7 @@ int main()    // Don't return anything if void main() is specified.
     
     std::cout << "-----------------Object Display--------------------\n"<< std::endl; // The program starts below the dashed line.
 
-    ClSerialNum objNo1;   // Class Object No 1
+    ClSerialNum objNo1;   // Class Object No 1.
     objNo1.fShowSerialNum();
 
     ClSerialNum objNo2;   // Class Object No 2
