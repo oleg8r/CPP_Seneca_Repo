@@ -33,7 +33,7 @@ class ClSerialNum    // Class
 {
     public: 
         static int countVar;     // The first class member. Static type: retains a variable value in RAM till the end of the program.
-        int numVar;     // The second class member 
+        int numVar;     // The second class member.
     
     public:
         ClSerialNum()
