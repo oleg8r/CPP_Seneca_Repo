@@ -65,7 +65,7 @@ int main()    // Don't return anything if void main() is specified.
     ClSerialNum objNo3;   // Class Object No 3
     objNo3.fShowSerialNum();
 
-    std::cout << std::endl; // Brake a line
+    std::cout << std::endl; // Brake a line.
     std::cout << "--------------End of Object Display-----------------\n"<< std::endl; // The program ends above the dashed line.
     
     return 0;   // It terminates the program. Don't return anything if void main() is specified.
