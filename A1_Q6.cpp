@@ -29,7 +29,7 @@
 #include <iostream>
 #include <iomanip>
 
-class ClSerialNum    // Class
+class ClSerialNum    // Class.
 {
     public: 
         static int countVar;     // The first class member. Static type: retains a variable value in RAM till the end of the program.
