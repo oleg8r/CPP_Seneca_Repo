@@ -37,7 +37,7 @@
 #include <iostream>
 #include <iomanip>
 
-class ClPayment // This class contains a member variable of type float that stores the amount of the payment and appropriate accessor and mutator methods
+class ClPayment // This class contains a member variable of type float that stores the amount of the payment and appropriate accessor and mutator methods.
 {
     protected:
         float paymentAmt;   // A member variable of type float that stores the amount of the payment
