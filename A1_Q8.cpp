@@ -40,7 +40,7 @@
 class ClPayment // This class contains a member variable of type float that stores the amount of the payment and appropriate accessor and mutator methods.
 {
     protected:
-        float paymentAmt;   // A member variable of type float that stores the amount of the payment
+        float paymentAmt;   // A member variable of type float that stores the amount of the payment.
         ClPayment()
         {
             paymentAmt = 0;
