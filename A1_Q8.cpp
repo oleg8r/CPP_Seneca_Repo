@@ -49,7 +49,7 @@ class ClPayment // This class contains a member variable of type float that stor
         {
             paymentAmt = amountPar;
         }
-        void paymentDetails()   // This member function outputs the amount of the payment
+        void paymentDetails()   // This member function outputs the amount of the payment.
         {
         }
 };
