@@ -54,7 +54,7 @@ class ClPayment // This class contains a member variable of type float that stor
         }
 };
 
-class CashPayment : ClPayment   // This sub-class redefines the paymentDetails function to indicate that the payment is in cash
+class CashPayment : ClPayment   // This sub-class redefines the paymentDetails function to indicate that the payment is in cash.
 {
     public:
         CashPayment() : ClPayment()
