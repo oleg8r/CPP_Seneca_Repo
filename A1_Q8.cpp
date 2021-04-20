@@ -63,7 +63,7 @@ class CashPayment : ClPayment   // This sub-class redefines the paymentDetails f
         CashPayment(float amountPar) : ClPayment(amountPar)
         {
         }
-        void paymentDetails()   // This function is redefined to include all credit card information in the printout
+        void paymentDetails()   // This function is redefined to include all credit card information in the printout.
         {
             std::cout << "Payment in cash: " << paymentAmt << "$";
         }
