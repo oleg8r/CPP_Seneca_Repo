@@ -88,7 +88,7 @@ class CreditCardPayment:ClPayment   // This sub-class contains member variables 
             this -> expirDate = expirDate;
             this -> cardNum = cardNum;
         }
-        void paymentDetails()   // This function is redefined to include all credit card information in the printout
+        void paymentDetails()   // This function is redefined to include all credit card information in the printout.
         {
             std::cout << "Client name: " << clientName << std::endl;
             std::cout << "Card number: " << cardNum << std::endl;
