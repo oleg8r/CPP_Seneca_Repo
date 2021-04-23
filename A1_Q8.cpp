@@ -69,7 +69,7 @@ class CashPayment : ClPayment   // This sub-class redefines the paymentDetails f
         }
 };
 
-class CreditCardPayment:ClPayment   // This sub-class contains member variables for the name on the card, expiration date, and credit card number
+class CreditCardPayment:ClPayment   // This sub-class contains member variables for the name on the card, expiration date, and credit card number.
 {
     private:
         std::string clientName;
