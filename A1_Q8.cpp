@@ -114,7 +114,7 @@ int main()    // Don't return anything if void main() is specified.
 
     std::cout << std::endl;
 
-    std::cout << "Client No 2" << std::endl;   // Client No 2
+    std::cout << "Client No 2" << std::endl;   // Client No 2.
     CashPayment cp_Obj2(433);
     cp_Obj2.paymentDetails();
     std::cout << std::endl;
