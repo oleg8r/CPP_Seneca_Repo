@@ -105,7 +105,7 @@ int main()    // Don't return anything if void main() is specified.
     
     std::cout << "-----------------Payment Display--------------------\n"<< std::endl; // The program starts below the dashed line.
 
-    std::cout << "Client No 1" << std::endl;   // Client No 1
+    std::cout << "Client No 1" << std::endl;   // Client No 1.
     CashPayment cp_Obj1(655);
     cp_Obj1.paymentDetails();
     CreditCardPayment ccp_Obj1 ("John Doe", "1234567890", "20.10.2021", 1000.25);
