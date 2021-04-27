@@ -121,7 +121,7 @@ int main()    // Don't return anything if void main() is specified.
     CreditCardPayment ccp_Obj2 ("Peter Green", "0987654321", "01.01.2022", 2520.55);
     ccp_Obj2.paymentDetails();
 
-    std::cout << std::endl; // Brake a line
+    std::cout << std::endl; // Brake a line.
     std::cout << "--------------End of Payment Display-----------------\n"<< std::endl; // The program ends above the dashed line.
     
     return 0;   // It terminates the program. Don't return anything if void main() is specified.
