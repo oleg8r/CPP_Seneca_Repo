@@ -50,7 +50,7 @@ class HumanPlayer:public Player // HumanPlayer sub-class from the task, derived 
             return guess;
         }
 };
-class ComputerPlayer:public Player // ComputerPlayer sub-class from the task, derived from Player
+class ComputerPlayer:public Player // ComputerPlayer sub-class from the task, derived from Player.
 {
     public:
         ComputerPlayer()    // Constructor
