@@ -43,7 +43,7 @@ class HumanPlayer:public Player // HumanPlayer sub-class from the task, derived 
         HumanPlayer()    // Constructor
         {
         }
-        virtual int getGuess()  // getGuess() function from the task
+        virtual int getGuess()  // getGuess() function from the task.
         {
             int guess = 0;
             std::cin >> guess;
