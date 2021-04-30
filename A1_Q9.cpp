@@ -57,7 +57,7 @@ class ComputerPlayer:public Player // ComputerPlayer sub-class from the task, de
         {
         }
         
-        virtual int getGuess()  // getGuess() function from the task
+        virtual int getGuess()  // getGuess() function from the task.
         {
             srand(time(NULL));
             return rand()%100;
