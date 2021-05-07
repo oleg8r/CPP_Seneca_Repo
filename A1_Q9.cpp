@@ -134,7 +134,7 @@ int main()    // Don't return anything if void main() is specified.
     srand(1);
 
     HumanPlayer humanPlayer1; // Creates 1st object of the HumanPlayer class.
-    HumanPlayer humanPlayer2; // Creates 2nd object of the HumanPlayer class 
+    HumanPlayer humanPlayer2; // Creates 2nd object of the HumanPlayer class.
     ComputerPlayer compPlayer1; // Creates 1st object of the ComputerPlayer class 
     ComputerPlayer compPlayer2; // Creates 2nd object of the ComputerPlayer class 
 
