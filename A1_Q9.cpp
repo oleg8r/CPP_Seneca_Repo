@@ -69,7 +69,7 @@ class ComputerPlayer:public Player // ComputerPlayer sub-class from the task, de
 
 //#region   FUNCTIONS
 
-bool checkForWin(int guess, int answer); // Function prototype
+bool checkForWin(int guess, int answer); // Function prototype.
 void play(Player & player1, Player & player2); // Function prototype from the task.
 
 bool checkForWin(int guess, int answer)   // Function from the task.
