@@ -85,7 +85,7 @@ bool checkForWin(int guess, int answer)   // Function from the task.
     else if (answer < guess)
     {
         std::cout << "Your guess " << guess << " is too high." << std::endl;
-        std::cout << std::endl; // Brake a line
+        std::cout << std::endl; // Brake a line.
     }
 
     else
