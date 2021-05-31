@@ -53,7 +53,7 @@ class HumanPlayer:public Player // HumanPlayer sub-class from the task, derived 
 class ComputerPlayer:public Player // ComputerPlayer sub-class from the task, derived from Player.
 {
     public:
-        ComputerPlayer()    // Constructor.
+        ComputerPlayer()    // Constructor
         {
         }
         
