@@ -40,7 +40,7 @@ class Player // Player class from the task.
 class HumanPlayer:public Player // HumanPlayer sub-class from the task, derived from Player.
 {
     public:
-        HumanPlayer()    // Constructor.
+        HumanPlayer()    // Constructor
         {
         }
         virtual int getGuess()  // getGuess() function from the task.
