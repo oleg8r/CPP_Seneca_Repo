@@ -147,7 +147,7 @@ int main()    // Don't return anything if void main() is specified.
     std::cout << "You're playing 'computer vs human' mode.\n\n";  // Computer vs. computer game.
     play(compPlayer1, compPlayer2);
 
-    std::cout << std::endl; // Brake a line.
+    std::cout << std::endl; // Brake a line
     std::cout << "--------------End of Game-----------------\n"<< std::endl; // The program ends above the dashed line.
 }
 
