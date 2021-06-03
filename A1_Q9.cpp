@@ -25,7 +25,7 @@
 #include <iomanip>
 #include<cstdlib>
 
-class Player // Player class from the task.
+class Player // Player class from the task
 {
     public:
         Player()    // Constructor
