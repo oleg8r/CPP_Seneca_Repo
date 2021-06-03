@@ -97,7 +97,7 @@ bool checkForWin(int guess, int answer)   // Function from the task
     return false;
 }
 
-void play(Player & player1, Player & player2)   // Function from the task.
+void play(Player & player1, Player & player2)   // Function from the task
 {
     int answer = 0, guess = 0;
 
