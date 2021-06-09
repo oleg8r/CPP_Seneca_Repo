@@ -148,7 +148,7 @@ int main()    // Don't return anything if void main() is specified.
     play(compPlayer1, compPlayer2);
 
     std::cout << std::endl; // Brake a line
-    std::cout << "--------------End of Game-----------------\n"<< std::endl; // The program ends above the dashed line.
+    std::cout << "--------------End of Game-----------------\n"<< std::endl; // The program ends above the dashed line
 }
 
 //#endregion
