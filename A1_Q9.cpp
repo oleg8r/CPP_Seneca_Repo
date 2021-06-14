@@ -37,7 +37,7 @@ class Player // Player class from the task
             return 0;
         }
 };
-class HumanPlayer:public Player // HumanPlayer sub-class from the task, derived from Player.
+class HumanPlayer:public Player // HumanPlayer sub-class from the task, derived from Player
 {
     public:
         HumanPlayer()    // Constructor
