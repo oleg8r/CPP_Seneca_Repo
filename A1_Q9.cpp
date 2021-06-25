@@ -5,7 +5,7 @@
 
 /*============================================================
 |
-| File Name: Q9.cpp
+| File Name: Guess_Number.cpp
 | Purpose: To play a game to guess a number.
 | Documentation: This program is a guessing game in which two
 |   players attempt to guess a number. The objects represent 
