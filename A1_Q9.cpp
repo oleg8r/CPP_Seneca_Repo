@@ -6,7 +6,7 @@
 /*============================================================
 |
 | File Name: Q9.cpp
-| Purpose: To play a game to guess a number. (OOP Assignment #1 Q-09).
+| Purpose: To play a game to guess a number.
 | Documentation: This program is a guessing game in which two
 |   players attempt to guess a number. The objects represent 
 |   either a human player or a computer player.
