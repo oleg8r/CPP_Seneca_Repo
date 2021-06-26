@@ -126,7 +126,7 @@ void play(Player & player1, Player & player2)   // Function from the task
 int main()    // Don't return anything if void main() is specified
 {
     printf("\e[1;1H\e[2J");     // It clears the screen. No special library is required.
-    // write(0,"\e[1;1H\e[2J",12); // It can also clear the creen. No special library is required
+    // write(0,"\e[1;1H\e[2J",12); // It can also clear the creen. No special library is required.
     
     std::cout << "-----------------Game Display--------------------\n"<< std::endl; // The program starts below the dashed line
     
