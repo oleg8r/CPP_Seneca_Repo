@@ -32,7 +32,7 @@ class Player // Player class from the task
         {
         }
         
-        virtual int getGuess()  // getGuess() function from the task
+        virtual int getGuess()  // getGuess() function from the task.
         {
             return 0;
         }
