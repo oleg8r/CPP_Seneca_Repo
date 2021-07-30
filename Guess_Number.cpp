@@ -137,7 +137,7 @@ int main()    // Don't return anything if void main() is specified.
     ComputerPlayer compPlayer1; // Creates 1st object of the ComputerPlayer class.
     ComputerPlayer compPlayer2; // Creates 2nd object of the ComputerPlayer class.
 
-    std::cout << "You're playing 'human vs human' mode.\n\n"; // Human vs. human game
+    std::cout << "You're playing 'human vs human' mode.\n\n"; // Human vs. human game.
     play(humanPlayer1, humanPlayer2);
 
     std::cout << "You're playing 'computer vs computer' mode.\n\n";  // Human vs. computer game
