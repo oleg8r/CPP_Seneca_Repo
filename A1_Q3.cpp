@@ -22,7 +22,7 @@
 #include <iostream>
 #include <iomanip>
 
-struct strucDate   // Strcuture. "struct" is a compound data type
+struct strucDate   // Strcuture. "struct" is a compound data type.
 {
     int dayVar;
     int monthVar;
